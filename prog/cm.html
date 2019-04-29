@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" > 
+<head> 		
+<title>Programe TI</title>
+<style type="text/css">	
+	body 
+	{
+		color: #FFFFFF;
+		background-image: url(fond_prgm.png);
+		background-color: #000000;
+		background-repeat: no-repeat;
+	}
+	body h2	
+{		
+color: #FFFFFF;	
+}	
+#describ	
+{		
+text-indent: 30px;
+}
+#code
+{		
+border: 2px ridge #FFFFFF;		
+font-size: 18px;		
+padding-left: 10px;
+padding-right: 10px;		
+padding-top: 10px;
+padding-bottom: 10px;		
+color: red;		
+width:200px;	
+}
+#code:hover	
+{		
+color:#FFFFFF;		
+border:2px solid blue;	
+}
+</style>
+<script type="text/javascript">	
+function Cm()	
+{		var nombre1, nombre2, nombre3;
+		nombre1=prompt('MASSE DE SOLUTE(EN GRAMME)');
+		nombre2=prompt('VOLUME DE SOLUTION(EN LITTRE)');
+		nombre3 = nombre1/nombre2;
+		alert(nombre3);		
+}	
+function Vitesse()	
+{		var nombre1, nombre2, nombre3;
+		nombre1=prompt('Distance');
+		nombre2=prompt('Temps');
+		nombre3 = nombre1/nombre2;
+		alert(nombre3);		
+}	
+</script>
+</head>
+<body>
+	<h2>Physique Chimie</h2>
+<p id="describ">Programes qui premettent de calculer la concentration massique d'une solution, la vitesse.</p>
+<div id="code">
+Disp "MASSE DE SOLUTE","(EN GRAMME)"</br>
+Input M</br>
+Disp "VOLUME DE SOLUTION","(EN LITTRE)"</br>
+Input L</br>
+M/V->C</br>
+Disp "CM =",C
+<input type="button" value="Tester CM" onClick="javascript:Cm()">
+</div>
+<div id="code">
+Disp "Distance"</br>
+Input D</br>
+Disp "Temps"</br>
+Input T</br>
+D/T->V</br>
+Disp V
+<input type="button" value="Tester Vitesse" onClick="javascript:Vitesse()">
+</div>
+</body>

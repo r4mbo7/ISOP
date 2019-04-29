@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" > 
+<head> 		
+<title>Programe TI</title>
+<link rel="shortcut icon" type="image/x-icon" href="../images/Logo2.ico" />
+<style type="text/css">		
+body 		
+{			
+color: #FFFFFF;			
+background-image: url(fond_prgm.png);			
+background-color: #000000;
+background-repeat: no-repeat;
+}	
+body h2	
+{		
+color: #FFFFFF;	
+}	
+#describ	
+{		
+text-indent: 30px;
+}	
+#code
+{		
+	border: 2px ridge #FFFFFF;	
+	background-color: #000000;
+	font-size: 18px;		
+	padding-left: 10px;
+	padding-right: 10px;		
+	padding-top: 10px;
+	padding-bottom: 10px;		
+	color: red;		
+	width:200px;	
+}
+#code:hover	
+{		
+color:#FFFFFF;		
+border:2px solid blue;	
+}	
+</style>
+<script type="text/javascript">	
+function Plusoumoin()	{		var nombre1=prompt('?');		var nombre2=prompt('?');		while (nombre1 != nombre2){		if (nombre2 < nombre1) {		alert ('PLUS');		nombre2=prompt('?');		} 		else if (nombre2 > nombre1) {		alert ('MOIN');		nombre2=prompt('?');		}		}		alert('BRAVO'); 		alert('FIN...');	}	
+</script>	
+</head>
+<body>
+<h2>Le Plus-moin</h2>
+<p id="describ">Plus-moin est un jeux ou il faut trouver un nombre, ce nombre est saisie par un autre joueur, ou aléatoirement par la Ti(pour cela remplacer dans le code "INPUT X" par : "entAléat(0,1000)")</br>
+Le code du programe :</p>
+<p id="code">INPUT X</br>
+EffEcr</br>
+Repeat X=N</br>
+INPUT N</br>
+If N<X</br>
+Disp "PLUS"</br>
+If N>X</br>
+Disp "MOIN"</br>
+END</br>
+Disp "BRAVO"</br>
+</p>
+<input type="button" value="Tester PLUSMOIN" onClick="javascript:Plusoumoin()">
+</body></html>

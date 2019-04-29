@@ -1,0 +1,8 @@
+[21-Dec-2010 19:29:17] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/lisopfr/public_html/site/stats/listembrs.php on line 19
+[21-Dec-2010 19:49:59] PHP Parse error:  syntax error, unexpected T_IF in /home/lisopfr/public_html/site/stats/stats.php on line 24
+[21-Dec-2010 19:55:14] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lisopfr/public_html/site/stats/stats.php on line 24
+[22-Dec-2010 13:19:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/stats/stats.php on line 58
+[22-Dec-2010 13:20:20] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/stats/stats.php on line 59
+[22-Dec-2010 13:22:15] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/stats/stats.php on line 59
+[22-Dec-2010 13:22:53] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/stats/stats.php on line 59
+[22-Dec-2010 13:27:52] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/stats/stats.php on line 59

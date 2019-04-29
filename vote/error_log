@@ -1,0 +1,2 @@
+[08-Dec-2010 15:05:51] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/site/vote/vote_g_cool.php on line 23
+[18-Dec-2010 09:54:21] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/vote/sujet2.php on line 230

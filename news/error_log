@@ -1,0 +1,49 @@
+[25-Dec-2010 06:30:05] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 71
+[25-Dec-2010 06:30:29] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 71
+[26-Dec-2010 13:00:11] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 98
+[26-Dec-2010 13:00:17] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 98
+[26-Dec-2010 13:02:02] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 103
+[26-Dec-2010 13:03:04] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 103
+[26-Dec-2010 14:36:35] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 95
+[26-Dec-2010 14:39:14] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 103
+[26-Dec-2010 15:12:28] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/lisopfr/public_html/site/news/news.php on line 85
+[26-Dec-2010 15:12:43] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/news.php on line 81
+[26-Dec-2010 15:13:18] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/news.php on line 81
+[26-Dec-2010 15:13:21] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/news.php on line 81
+[26-Dec-2010 15:23:59] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 92
+[26-Dec-2010 15:25:44] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/titre1.php on line 92
+[26-Dec-2010 15:33:04] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/site/news/titre1.php on line 126
+[26-Dec-2010 15:37:28] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/news/titre1.php on line 105
+[27-Dec-2010 11:34:34] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:35:33] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:36:57] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:37:18] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:39:24] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:42:39] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:44:04] PHP Fatal error:  Call to undefined function headder() in /home/lisopfr/public_html/site/news/aime.php on line 10
+[27-Dec-2010 11:44:50] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/news/aime.php on line 10
+[27-Dec-2010 11:46:02] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/news/aime.php on line 10
+[27-Dec-2010 11:46:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/news/aime.php on line 10
+[27-Dec-2010 11:46:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/news/aime.php on line 10
+[27-Dec-2010 11:46:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/news/aime.php on line 10
+[27-Dec-2010 11:48:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/news/aime.php on line 10
+[27-Dec-2010 11:49:40] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/news/aime.php on line 9
+[27-Dec-2010 11:50:32] PHP Fatal error:  Call to undefined function headder() in /home/lisopfr/public_html/site/news/aime.php on line 9
+[27-Dec-2010 11:50:47] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:51:57] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 11:53:15] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/exp_lb2.php on line 81
+[27-Dec-2010 12:17:24] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/news/exp_lb2.php on line 100
+[27-Dec-2010 12:17:42] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/news/exp_lb2.php on line 105
+[27-Dec-2010 12:18:05] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/news/exp_lb2.php on line 105
+[27-Dec-2010 12:18:07] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/news/exp_lb2.php on line 105
+[27-Dec-2010 12:21:04] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/aime.php on line 9
+[27-Dec-2010 12:22:08] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/aime.php on line 9
+[27-Dec-2010 12:23:15] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/aime.php on line 9
+[27-Dec-2010 12:24:53] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/aime.php on line 9
+[27-Dec-2010 12:24:56] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/news/aime.php on line 10
+[03-Jan-2011 17:08:10] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/news/titre1.php on line 51
+[03-Jan-2011 17:08:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home/lisopfr/public_html/site/news/titre1.php on line 55
+[03-Jan-2011 17:28:11] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/site/news/titre1.php on line 143
+[04-Jan-2011 21:22:39] PHP Parse error:  syntax error, unexpected ',' in /home/lisopfr/public_html/news/expression_lb_post.php on line 13
+[04-Jan-2011 21:46:02] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/lisopfr/public_html/news/expression_lb_post.php on line 36
+[04-Jan-2011 21:46:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/news/expression_lb_post.php:36) in /home/lisopfr/public_html/news/expression_lb_post.php on line 37

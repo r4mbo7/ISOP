@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" > 
+	<head> 
+		<title>Programe TI</title>
+	</head>
+	<style type="text/css">
+		body 
+		{
+			color: #FFFFFF;
+			background-image: url(fond_prgm.png);
+			background-color: #000000;
+		}
+	body h2
+	{
+		color: #FFFFFF;
+	}
+	#describ
+	{
+		text-indent: 30px;
+	}
+	#code
+	{
+		position:absolute;
+		top:150px;
+		left:15px;
+		border: 2px ridge #FFFFFF;
+		font-size: 18px;
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		color: red;
+		width: 200px;
+	}
+	#code:hover
+	{
+		color:#FFFFFF;
+		border:2px solid blue;
+	}
+	#code2
+	{
+		position:absolute;
+		top:150px;
+		right:15px;
+		border: 2px ridge #FFFFFF;
+		font-size: 18px;
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		color: red;
+		width: 200px;
+	}
+	#code2:hover
+	{
+		color:#FFFFFF;
+		border:2px solid yellow;
+	}
+	</style>
+	</head>
+<body>
+	<h2>Distance et mileu de 2 points</h2>
+<p id="describ">Ces programes permettent de trouver simplement la distance ou le milieu de 2 points dans un rep&eacutere ortonorm&eacute. </p>
+<p id="code">
+Programe: DISTANCE</br>
+Disp "COORDONNE DE A"</br>
+Input X,Y</br>
+Disp "COORDONNE DE B"</br>
+Inpute A,B</br>
+RacineCarr&eacute de(X-A)+(Y-B)->R</br>
+Disp R</br>
+</p>
+<p id="code2">
+Programe: MILIEU</br>
+Disp "COORDONNE DE A"</br>
+Input A,Y</br>
+Disp "COORDONNE DE B"</br>
+Input X,B</br>
+(A-X/2)+(Y-B/2)->R</br>
+Disp R
+</p> 
+</body>
+</html>

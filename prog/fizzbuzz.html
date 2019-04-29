@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" > 
+<head> 		
+<title>Programe TI</title>
+<style type="text/css">	
+	body 
+	{
+		color: #FFFFFF;
+		background-image: url(fond_prgm.png);
+		background-color: #000000;
+		background-repeat: no-repeat;
+	}
+	body h2	
+	{		
+	color: #FFFFFF;	
+	}	
+	#describ	
+	{		
+	text-indent: 30px;
+	}
+	#code
+	{		
+	border: 2px ridge #FFFFFF;		
+	font-size: 18px;		
+	padding-left: 10px;
+	padding-right: 10px;		
+	padding-top: 10px;
+	padding-bottom: 10px;		
+	color: red;		
+	width:200px;	
+	}
+	#code:hover	
+	{		
+	color:#FFFFFF;		
+	border:2px solid blue;	
+	}
+</style>
+</head>
+<body>
+	<H2>Fizz Buzz</h2>
+<p id="describ">Le Fizz Buzz est un jeux ou il suffit de compter, mais attention! Quand un nombre est multiple de 5 le joueur doit dirt "Buzz"(et pas 5), quand c'est un multiple de 7 le joueur doit dirt "Fizz" et quand c'est un multiple de 35 le joueur doit dirt "FizzBuzz"! C'est simple non? Mais essay de compter jusqu'a 50 ;).</p>
+<div id="code">
+Input X</br>
+Repeat X=N</br>
+N+1->N</br>
+If partDec(N/35)=0</br>
+Then</br>
+Disp "FIZZBUZZ"</br>
+ElseIf partDec(N/5)=0</br>
+Then</br>
+Disp "BUZZ"</br>
+ElseIf partDec(N/7)=0</br>
+Then</br>
+Disp "FIZZ"</br>
+Else</br>
+Disp N</br>
+END</br>
+</div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+[13-Apr-2011 13:34:07] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1049] Unknown database 'lisopfr_image'' in /home/lisopfr/public_html/grece/index.php:73
+Stack trace:
+#0 /home/lisopfr/public_html/grece/index.php(73): PDO->__construct('mysql:host=loca...', 'lisopfr', 'hRkrKDkDy6')
+#1 {main}
+  thrown in /home/lisopfr/public_html/grece/index.php on line 73
+[13-Apr-2011 13:34:11] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1049] Unknown database 'lisopfr_image'' in /home/lisopfr/public_html/grece/index.php:73
+Stack trace:
+#0 /home/lisopfr/public_html/grece/index.php(73): PDO->__construct('mysql:host=loca...', 'lisopfr', 'hRkrKDkDy6')
+#1 {main}
+  thrown in /home/lisopfr/public_html/grece/index.php on line 73
+[13-Apr-2011 13:35:17] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1049] Unknown database 'lisopfr_image'' in /home/lisopfr/public_html/grece/index.php:73
+Stack trace:
+#0 /home/lisopfr/public_html/grece/index.php(73): PDO->__construct('mysql:host=loca...', 'lisopfr', 'hRkrKDkDy6')
+#1 {main}
+  thrown in /home/lisopfr/public_html/grece/index.php on line 73

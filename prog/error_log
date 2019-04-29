@@ -1,0 +1,15 @@
+[26-Dec-2010 01:11:23] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/prog/index.php on line 60
+[26-Dec-2010 01:11:32] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/prog/index.php on line 60
+[26-Dec-2010 01:13:35] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/prog/index.php on line 60
+[26-Dec-2010 01:13:37] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/prog/index.php on line 60
+[26-Dec-2010 01:13:50] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/prog/index.php on line 60
+[26-Dec-2010 01:34:33] PHP Fatal error:  Call to undefined function htmlscpecialchars() in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[26-Dec-2010 01:36:51] PHP Fatal error:  Call to undefined function htmlscpecialchars() in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[26-Dec-2010 01:36:53] PHP Fatal error:  Call to undefined function htmlscpecialchars() in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[26-Dec-2010 02:28:40] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/prog/index.php on line 65
+[26-Dec-2010 02:30:25] PHP Fatal error:  Call to a member function exec() on a non-object in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[26-Dec-2010 02:31:01] PHP Fatal error:  Call to a member function exec() on a non-object in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[26-Dec-2010 02:32:22] PHP Fatal error:  Call to a member function exec() on a non-object in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[29-Dec-2010 16:59:11] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[29-Dec-2010 17:16:54] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/lisopfr/public_html/site/prog/programe.php on line 1
+[10-Jan-2011 22:26:38] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/lisopfr/public_html/prog/programe.php on line 66

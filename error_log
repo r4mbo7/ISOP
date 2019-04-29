@@ -1,0 +1,264 @@
+[04-Dec-2010 21:45:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/connection2.php:8) in /home/lisopfr/public_html/site/connection2.php on line 46
+[04-Dec-2010 21:51:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/connection2.php:8) in /home/lisopfr/public_html/site/connection2.php on line 46
+[04-Dec-2010 22:17:11] PHP Fatal error:  Call to undefined function heider() in /home/lisopfr/public_html/site/Mides_post.php on line 13
+[05-Dec-2010 10:13:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/connection2.php:8) in /home/lisopfr/public_html/site/connection2.php on line 46
+[05-Dec-2010 10:20:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/connection2.php:8) in /home/lisopfr/public_html/site/connection2.php on line 45
+[05-Dec-2010 10:26:02] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 10:28:32] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 10:28:41] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 10:29:05] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 10:32:11] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 10:33:23] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 10:34:21] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 10:37:19] PHP Parse error:  syntax error, unexpected T_CATCH in /home/lisopfr/public_html/site/menu.php on line 46
+[05-Dec-2010 11:23:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/connection2.php:8) in /home/lisopfr/public_html/site/connection2.php on line 45
+[05-Dec-2010 12:39:19] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/lisopfr/public_html/site/inscription2.php on line 37
+[05-Dec-2010 16:42:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/connection2.php:8) in /home/lisopfr/public_html/site/connection2.php on line 45
+[05-Dec-2010 16:44:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/connection2.php:8) in /home/lisopfr/public_html/site/connection2.php on line 42
+[05-Dec-2010 18:14:21] PHP Fatal error:  Call to a member function closeCursor() on a non-object in /home/lisopfr/public_html/site/MP_POST.php on line 28
+[05-Dec-2010 18:28:33] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/LECMP.php on line 22
+[05-Dec-2010 18:38:00] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/lisopfr/public_html/site/LECMP.php on line 24
+[05-Dec-2010 18:39:18] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/lisopfr/public_html/site/LECMP.php on line 24
+[05-Dec-2010 20:28:14] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/index.php on line 136
+[05-Dec-2010 20:29:05] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/lisopfr/public_html/site/index.php on line 135
+[05-Dec-2010 21:37:40] PHP Parse error:  syntax error, unexpected T_ELSE in /home/lisopfr/public_html/site/vote_g_cool.php on line 17
+[05-Dec-2010 22:04:51] PHP Parse error:  syntax error, unexpected '[' in /home/lisopfr/public_html/site/vote_g_cool.php on line 14
+[05-Dec-2010 22:19:10] PHP Fatal error:  Call to a member function query() on a non-object in /home/lisopfr/public_html/site/vote_g_cool.php on line 13
+[06-Dec-2010 07:17:45] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/lisopfr/public_html/site/index.php on line 131
+[06-Dec-2010 07:21:10] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/connection2.php on line 4
+[06-Dec-2010 13:15:33] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/site/connection2.php on line 5
+[06-Dec-2010 13:17:48] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/site/connection2.php on line 5
+[06-Dec-2010 13:18:26] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/connection2.php on line 4
+[06-Dec-2010 13:19:30] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/connection2.php on line 4
+[06-Dec-2010 13:20:00] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/connection2.php on line 4
+[06-Dec-2010 13:20:25] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/connection2.php on line 4
+[06-Dec-2010 13:20:34] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/connection2.php on line 4
+[06-Dec-2010 13:33:24] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/Mides.php on line 26
+[06-Dec-2010 13:34:15] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/Mides.php on line 26
+[06-Dec-2010 16:47:14] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/menu.php on line 71
+[06-Dec-2010 16:47:55] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/menu.php on line 71
+[06-Dec-2010 16:53:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/envoynews_post.php:8) in /home/lisopfr/public_html/site/envoynews_post.php on line 22
+[06-Dec-2010 18:19:34] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/site/menu.php on line 88
+[06-Dec-2010 18:21:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/news.php:44) in /home/lisopfr/public_html/site/menu.php on line 2
+[06-Dec-2010 18:22:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/news.php:44) in /home/lisopfr/public_html/site/menu.php on line 2
+[06-Dec-2010 18:50:56] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/exp_lb.php on line 52
+[07-Dec-2010 18:13:37] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/menu.php on line 55
+[07-Dec-2010 18:15:15] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/site/menu.php on line 55
+[07-Dec-2010 18:15:39] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/site/menu.php on line 55
+[07-Dec-2010 18:15:59] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/menu.php on line 55
+[07-Dec-2010 18:59:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/menu.php on line 55
+[07-Dec-2010 19:08:11] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/titre1.php on line 45
+[07-Dec-2010 19:08:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/titre1.php on line 45
+[07-Dec-2010 19:08:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/titre1.php on line 45
+[07-Dec-2010 19:09:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/titre1.php on line 45
+[07-Dec-2010 19:10:10] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 46
+[07-Dec-2010 19:10:46] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:12:12] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:13:27] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:13:37] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:14:11] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:14:14] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:14:20] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:14:24] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:14:39] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:16:49] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:17:50] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 19:17:55] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/titre1.php on line 51
+[07-Dec-2010 21:08:50] PHP Fatal error:  Call to a member function execute() on a non-object in /home/lisopfr/public_html/site/validation_news_post.php on line 30
+[07-Dec-2010 21:13:51] PHP Fatal error:  Call to a member function closeCursor() on a non-object in /home/lisopfr/public_html/site/validation_news_post.php on line 35
+[07-Dec-2010 21:26:56] PHP Parse error:  syntax error, unexpected T_IF in /home/lisopfr/public_html/site/validation_news.php on line 23
+[07-Dec-2010 21:28:09] PHP Parse error:  syntax error, unexpected T_IF in /home/lisopfr/public_html/site/validation_news.php on line 23
+[07-Dec-2010 21:29:48] PHP Parse error:  syntax error, unexpected T_IF in /home/lisopfr/public_html/site/validation_news.php on line 24
+[08-Dec-2010 13:29:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/connection2.php:12) in /home/lisopfr/public_html/site/connection2.php on line 62
+[08-Dec-2010 13:29:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/connection2.php:12) in /home/lisopfr/public_html/site/connection2.php on line 62
+[08-Dec-2010 14:00:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/connection2.php:12) in /home/lisopfr/public_html/site/connection2.php on line 62
+[08-Dec-2010 14:02:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/connection2.php:12) in /home/lisopfr/public_html/site/connection2.php on line 62
+[08-Dec-2010 18:24:05] PHP Fatal error:  Call to a member function closeCursor() on a non-object in /home/lisopfr/public_html/site/LECMP_post.php on line 23
+[14-Dec-2010 19:17:08] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/LECMP.php on line 41
+[15-Dec-2010 17:17:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/connection2.php:11) in /home/lisopfr/public_html/site/connection2.php on line 50
+[15-Dec-2010 17:28:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/connection2.php:23) in /home/lisopfr/public_html/site/connection2.php on line 24
+[15-Dec-2010 17:28:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/connection2.php:23) in /home/lisopfr/public_html/site/connection2.php on line 24
+[15-Dec-2010 18:21:40] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/modif_pswd_post.php on line 23
+[15-Dec-2010 18:21:59] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/modif_pswd_post.php on line 23
+[15-Dec-2010 19:09:19] PHP Fatal error:  Call to undefined function closeCursor() in /home/lisopfr/public_html/site/modif_pswd_post.php on line 35
+[15-Dec-2010 19:09:53] PHP Fatal error:  Call to undefined method PDO::closeCursor() in /home/lisopfr/public_html/site/modif_pswd_post.php on line 35
+[15-Dec-2010 19:14:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/modif_pswd_post.php:7) in /home/lisopfr/public_html/site/modif_pswd_post.php on line 8
+[15-Dec-2010 19:14:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/modif_pswd_post.php:7) in /home/lisopfr/public_html/site/modif_pswd_post.php on line 8
+[15-Dec-2010 19:15:05] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/modif_pswd_post.php:7) in /home/lisopfr/public_html/site/modif_pswd_post.php on line 8
+[15-Dec-2010 19:19:39] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/modif_pswd_post.php on line 31
+[15-Dec-2010 21:36:16] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/message_modo.php on line 11
+[15-Dec-2010 21:36:57] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/message_modo.php on line 11
+[15-Dec-2010 21:36:58] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/message_modo.php on line 11
+[15-Dec-2010 21:36:59] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/message_modo.php on line 11
+[15-Dec-2010 21:48:17] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/site/ZONE_admin.php on line 9
+[17-Dec-2010 10:34:37] PHP Parse error:  syntax error, unexpected T_ECHO in /home/lisopfr/public_html/site/supr_pswd_post.php on line 6
+[17-Dec-2010 10:35:50] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lisopfr/public_html/site/supr_pswd_post.php on line 28
+[17-Dec-2010 10:38:45] PHP Parse error:  syntax error, unexpected ')' in /home/lisopfr/public_html/site/supr_pswd_post.php on line 17
+[17-Dec-2010 10:39:10] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lisopfr/public_html/site/supr_pswd_post.php on line 27
+[17-Dec-2010 10:40:50] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lisopfr/public_html/site/supr_pswd_post.php on line 41
+[17-Dec-2010 10:41:05] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lisopfr/public_html/site/supr_pswd_post.php on line 41
+[17-Dec-2010 10:41:14] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/supr_pswd_post.php on line 45
+[18-Dec-2010 16:50:32] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/site/menu.php on line 85
+[18-Dec-2010 17:25:55] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/expression_lb.php on line 52
+[19-Dec-2010 19:56:51] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[19-Dec-2010 19:57:44] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[19-Dec-2010 19:58:12] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[19-Dec-2010 22:44:59] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/lisopfr/public_html/site/news.php on line 73
+[20-Dec-2010 00:32:27] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[20-Dec-2010 12:30:12] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[20-Dec-2010 12:53:43] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[20-Dec-2010 13:32:00] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[20-Dec-2010 15:12:32] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[20-Dec-2010 17:10:41] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/connection2.php on line 29
+[20-Dec-2010 17:11:15] PHP Fatal error:  Call to a member function exec() on a non-object in /home/lisopfr/public_html/site/connection2.php on line 28
+[20-Dec-2010 17:12:03] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/connection2.php on line 37
+[20-Dec-2010 17:12:21] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/connection2.php on line 37
+[20-Dec-2010 17:14:49] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/connection2.php on line 37
+[20-Dec-2010 22:20:16] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/index.php on line 176
+[21-Dec-2010 09:45:21] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/Categos.php on line 141
+[21-Dec-2010 10:26:39] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/site/Mides_post.php on line 13
+[21-Dec-2010 10:32:25] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/site/Mides_post.php on line 13
+[21-Dec-2010 15:16:18] PHP Parse error:  syntax error, unexpected '[' in /home/lisopfr/public_html/site/LECMP.php on line 64
+[21-Dec-2010 15:16:45] PHP Parse error:  syntax error, unexpected '[' in /home/lisopfr/public_html/site/LECMP.php on line 64
+[21-Dec-2010 15:17:03] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/site/LECMP.php on line 72
+[21-Dec-2010 17:54:41] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/lisopfr/public_html/site/expression_lb.php on line 47
+[21-Dec-2010 17:57:05] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/expression_lb.php on line 51
+[21-Dec-2010 18:01:31] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/expression_lb.php on line 51
+[21-Dec-2010 18:07:26] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/expression_lb.php on line 51
+[21-Dec-2010 18:19:05] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/expression_lb.php on line 50
+[21-Dec-2010 18:19:41] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/expression_lb.php on line 51
+[21-Dec-2010 23:11:58] PHP Warning:  include(bandeau.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lisopfr/public_html/site/index.php on line 128
+[21-Dec-2010 23:11:58] PHP Warning:  include(bandeau.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lisopfr/public_html/site/index.php on line 128
+[21-Dec-2010 23:11:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'bandeau.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lisopfr/public_html/site/index.php on line 128
+[21-Dec-2010 23:12:30] PHP Parse error:  syntax error, unexpected '<' in /home/lisopfr/public_html/site/bandeau_index.php on line 19
+[21-Dec-2010 23:13:07] PHP Parse error:  syntax error, unexpected '<' in /home/lisopfr/public_html/site/bandeau_index.php on line 18
+[21-Dec-2010 23:38:57] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/bandeau_index.php on line 39
+[22-Dec-2010 00:03:44] PHP Parse error:  syntax error, unexpected '.' in /home/lisopfr/public_html/site/bandeau_index.php on line 34
+[22-Dec-2010 00:10:12] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/site/index.php on line 153
+[22-Dec-2010 00:13:37] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/bandeau_index.php on line 26
+[22-Dec-2010 00:13:37] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/bandeau_index.php on line 26
+[22-Dec-2010 00:13:40] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/bandeau_index.php on line 26
+[22-Dec-2010 00:14:52] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/bandeau_index.php on line 26
+[22-Dec-2010 00:16:29] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/bandeau_index.php on line 26
+[22-Dec-2010 15:29:16] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/lisopfr/public_html/site/inscription2.php on line 40
+[22-Dec-2010 15:29:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 34
+[22-Dec-2010 15:29:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 38
+[22-Dec-2010 15:31:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 15:31:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 39
+[22-Dec-2010 15:32:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 34
+[22-Dec-2010 15:32:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 38
+[22-Dec-2010 15:35:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 34
+[22-Dec-2010 15:35:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 38
+[22-Dec-2010 15:36:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 34
+[22-Dec-2010 15:36:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 38
+[22-Dec-2010 15:45:52] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/inscription2.php on line 34
+[22-Dec-2010 16:03:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/site/bandeau_index.php on line 30
+[22-Dec-2010 16:09:03] PHP Parse error:  syntax error, unexpected ',' in /home/lisopfr/public_html/site/inscription2.php on line 24
+[22-Dec-2010 16:09:35] PHP Parse error:  syntax error, unexpected ')' in /home/lisopfr/public_html/site/inscription2.php on line 31
+[22-Dec-2010 16:20:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 16:21:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 16:22:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 16:23:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 16:26:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 16:26:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 17:00:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 17:03:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 17:06:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:22:55] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/site/inscription2.php on line 5
+[22-Dec-2010 18:23:15] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/site/inscription2.php on line 43
+[22-Dec-2010 18:23:35] PHP Fatal error:  Call to undefined function sesson_start() in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 18:29:50] PHP Fatal error:  Call to undefined function sesson_start() in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 18:32:05] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 18:32:05] PHP Fatal error:  Call to a member function execute() on a non-object in /home/lisopfr/public_html/site/inscription2.php on line 34
+[22-Dec-2010 18:34:05] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 32
+[22-Dec-2010 18:34:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 42
+[22-Dec-2010 18:36:30] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/index.php on line 159
+[22-Dec-2010 18:39:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 18:39:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 43
+[22-Dec-2010 18:39:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 18:39:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 5
+[22-Dec-2010 18:40:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 18:40:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 43
+[22-Dec-2010 18:40:37] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/index.php on line 159
+[22-Dec-2010 18:40:39] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/index.php on line 159
+[22-Dec-2010 18:41:20] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/index.php on line 159
+[22-Dec-2010 18:41:22] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/index.php on line 159
+[22-Dec-2010 18:41:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 42
+[22-Dec-2010 18:42:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 12
+[22-Dec-2010 18:46:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:47:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 4
+[22-Dec-2010 18:55:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/lisopfr/public_html/site/index.php on line 149
+[22-Dec-2010 18:58:29] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/inscription1.php on line 87
+[22-Dec-2010 18:58:57] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/inscription1.php on line 87
+[22-Dec-2010 19:03:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:04:51] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:05:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:11:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:11:17] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/inscription2.php on line 36
+[22-Dec-2010 19:11:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:11:20] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/lisopfr/public_html/site/inscription2.php on line 36
+[22-Dec-2010 19:12:51] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:18:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:18:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/lisopfr/public_html/site/inscription2.php:1) in /home/lisopfr/public_html/site/inscription2.php on line 2
+[22-Dec-2010 19:36:21] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/lisopfr/public_html/site/inscription2.php on line 19
+[22-Dec-2010 19:36:57] PHP Parse error:  syntax error, unexpected '*' in /home/lisopfr/public_html/site/inscription2.php on line 19
+[22-Dec-2010 21:47:36] PHP Parse error:  syntax error, unexpected T_WHILE in /home/lisopfr/public_html/site/bandeau_index.php on line 18
+[23-Dec-2010 11:15:14] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/lisopfr/public_html/site/Categos.php on line 146
+[23-Dec-2010 12:10:00] PHP Fatal error:  Function name must be a string in /home/lisopfr/public_html/site/favori_topic_post.php on line 16
+[23-Dec-2010 12:11:13] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'num' in 'field list'' in /home/lisopfr/public_html/site/favori_topic_post.php:19
+Stack trace:
+#0 /home/lisopfr/public_html/site/favori_topic_post.php(19): PDO->exec('INSERT INTO fav...')
+#1 {main}
+  thrown in /home/lisopfr/public_html/site/favori_topic_post.php on line 19
+[23-Dec-2010 12:42:07] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/favori_topic.php on line 54
+[23-Dec-2010 16:18:28] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/favori_topic.php on line 39
+[23-Dec-2010 17:14:47] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/lisopfr/public_html/site/favori_topic_post.php on line 20
+[23-Dec-2010 17:15:17] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/lisopfr/public_html/site/favori_topic_post.php on line 20
+[23-Dec-2010 17:20:28] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lisopfr/public_html/site/favori_topic_post.php on line 21
+[23-Dec-2010 20:54:35] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/site/index.php on line 227
+[23-Dec-2010 20:54:36] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/site/index.php on line 227
+[23-Dec-2010 20:54:52] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/site/index.php on line 227
+[23-Dec-2010 21:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/index.php:145) in /home/lisopfr/public_html/site/index.php on line 220
+[23-Dec-2010 21:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/index.php:145) in /home/lisopfr/public_html/site/index.php on line 220
+[23-Dec-2010 21:38:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/index.php:145) in /home/lisopfr/public_html/site/index.php on line 220
+[23-Dec-2010 21:39:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/index.php:145) in /home/lisopfr/public_html/site/index.php on line 220
+[23-Dec-2010 21:39:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lisopfr/public_html/site/index.php:145) in /home/lisopfr/public_html/site/index.php on line 220
+[02-Jan-2011 14:15:43] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/Mides_post.php on line 3
+[02-Jan-2011 14:16:01] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/Mides_post.php on line 3
+[02-Jan-2011 14:16:04] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/Mides_post.php on line 3
+[02-Jan-2011 14:17:18] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/Mides_post.php on line 3
+[02-Jan-2011 14:17:52] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/Mides_post.php on line 3
+[02-Jan-2011 14:18:04] PHP Parse error:  syntax error, unexpected '{' in /home/lisopfr/public_html/site/Mides_post.php on line 3
+[11-Jan-2011 21:36:33] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/ban_post.php on line 15
+[11-Jan-2011 21:37:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/ban_post.php on line 15
+[11-Jan-2011 21:38:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/lisopfr/public_html/ban_post.php on line 16
+[11-Jan-2011 21:39:45] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/ban_post.php on line 14
+[11-Jan-2011 21:42:53] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/ban_post.php on line 14
+[11-Jan-2011 21:43:13] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/ban_post.php on line 14
+[11-Jan-2011 21:45:00] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/ban_post.php on line 14
+[11-Jan-2011 21:50:33] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/ban_post.php on line 14
+[11-Jan-2011 21:58:37] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/ban_post.php on line 14
+[11-Jan-2011 22:00:48] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/ban_post.php on line 15
+[11-Jan-2011 22:01:45] PHP Fatal error:  Call to a member function exec() on a non-object in /home/lisopfr/public_html/ban_post.php on line 17
+[12-Jan-2011 07:50:23] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/lisopfr/public_html/index.php on line 258
+[12-Jan-2011 08:01:39] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/index.php on line 258
+[12-Jan-2011 08:02:25] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/index.php on line 258
+[12-Jan-2011 08:02:27] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/index.php on line 258
+[12-Jan-2011 08:02:30] PHP Parse error:  syntax error, unexpected ';' in /home/lisopfr/public_html/index.php on line 258
+[12-Jan-2011 08:03:03] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/lisopfr/public_html/index.php on line 259
+[12-Jan-2011 08:03:30] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/index.php on line 259
+[12-Jan-2011 08:06:16] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/index.php on line 259
+[12-Jan-2011 08:06:17] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/index.php on line 259
+[12-Jan-2011 08:06:47] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/lisopfr/public_html/index.php on line 259
+[12-Jan-2011 08:09:02] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/index.php on line 253
+[12-Jan-2011 08:09:04] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/index.php on line 253
+[12-Jan-2011 19:28:08] PHP Fatal error:  Call to a member function query() on a non-object in /home/lisopfr/public_html/LECMP.php on line 69
+[19-Jan-2011 16:53:25] PHP Parse error:  syntax error, unexpected $end in /home/lisopfr/public_html/LECMP.php on line 110
+[19-Jan-2011 16:55:23] PHP Parse error:  syntax error, unexpected '}' in /home/lisopfr/public_html/LECMP.php on line 100
